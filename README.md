@@ -23,7 +23,7 @@ Nos últimos meses tenho trabalhado com:
 
 ## 🛠 Tecnologias
 
-- **Linguagens:** JavaScript  
+- **Linguagens:** JavaScript e Python  
 - **Automação:** n8n, Google Apps Script  
 - **Outros:** Pipedrive (como usuária), planilhas, integrações
 
